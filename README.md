@@ -1,6 +1,25 @@
-# isc-proposal
-[![Build Status](https://travis-ci.org/stephlocke/isc-proposal.svg?branch=master)](https://travis-ci.org/stephlocke/isc-proposal)
+# Development of Forecasting Support System, Stage I
+The aim of the project is to develop an R Shiny application that would allow analysing data (downloaded from SQL) and produce point and interval forecasts for specified temporal and cross-sectional levels of data for the specified forecast horizon.
 
+The Forecast Support System (FSS) is focused on working with the admittance of patients in hospitals, but can be extended to work with other data. The main advantage in focusin on this data is because it has many frequencies (the data is recorded, when patients come) and many categories (sex and age groups, types of disease etc). This allows developing a system that can be easily extended and applied to other forecasting related problems, such as demand forecasting for retailers, energy forecasting, tourism forecasting etc.
+
+The final aim of the project is to develop a FSS constructor, which could be deployed in any organisation with a minimum knowledge of R from the admin team.
+
+The project will be carried out in three stages over the three years:
+
+1. The first one is to take place in 2020, and will be focused on the development of R Shiny application based on the existing forecasting packages and the connection between the R Shiny and the SQL database.
+2. The second stage will introduce the more complicated interactions between the users and the FSS, allowing amending the produced forecasts and prediction intervals and add explanatory variables.
+3. On the final stage, the constructor will be created, allowing to deploy the FSS in any organisation and define which functionality to have.
+
+The project is done with the support from South Tees Hospitals NHS Foundation Trust in England, which will provide the data and access to the database for the purposes of development and installation of the FSS.
+
+The final system will be modular, allowing adding ore removing modules, based on the needs of users.
+
+
+
+---------------
+
+# Old stuff
 This repository is a boilerplate repository that helps you prepare your proposal for the [R Consortium](https://www.r-consortium.org).
 
 ## Background 
