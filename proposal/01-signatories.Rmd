@@ -13,12 +13,15 @@ The team includes:
 
 1. [Ivan Svetunkov](https://www.lancaster.ac.uk/lums/people/ivan-svetunkov), Lecturer of Marketing Analytics, member of the Centre for Marketing Analytics and Forecasting of Lancaster University. He is the creator and the maintainer of such R packages as `smooth` and `greybox`, which implement regression and dynamic models for forecasting purposes. Both packages have more than 7000 downloads per month. Ivan will be the main person, responsible for the development of the code of the new package for the OFSS.
 2. [Nikolaos Kourentzes](https://www.lancaster.ac.uk/lums/people/nikos-kourentzes), professor of department of Management Science, member of the Centre for Marketing Analytics and Forecasting of Lancaster University. He is the creator of `tsutils`, `nnfor`, `MAPA`, `tsintermittent` packages and one of the authors of the `thief` package.
+3. [Anna Sroginis](https://www.lancaster.ac.uk/lums/people/anna-sroginis)
+4. [Kandrika Fadhlan Pritularga](https://www.lancaster.ac.uk/lums/people/kandrika-pritularga)
 
 
 ## Contributors
 <!-- 
 Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
 -->
+
 
 ## Consulted
 <!-- 
