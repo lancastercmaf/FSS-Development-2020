@@ -3,10 +3,19 @@
 This is where the proposal should be outlined. 
 -->
 
+We propose to develop a package that would implement an R Shiny based interface, connecting data base of companies (such as MySQL) with R packages and allow users interact with the system. The system should be self sufficient and focus on the forecasting side of the business processes. It would allow analysing selected time series and producing forecasts with focuses on specific managerial decisions.
+
+The system itself should be developed in three stages, this proposal outlines only the first of them.
+
 ## Overview
 <!--
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
+The Open Forecast Support System (OFSS) will have two main components:
+1. The core, including the main functions for time series analysis and forecasting;
+2. The interface, accessible via a local area network by users that have necessary privileges.
+
+
 
 ## Detail
 <!--

@@ -10,4 +10,8 @@ It is important to cover:
  - [ ] Why it should be tackled
 -->
 
+There are many forecasting related packages in R, some of which are very popular in R community (for example, `forecast` package has xxx downloads per month). Over the last few years, we have seen a shift in business from the commercial software towards R: companies tend to choose R, when it comes to selecting an appropriate system for data analysis and forecasting. They start employing analysts and data scientists with the programming skills, and R has become one of the main prerequisits for the analytical positions in business.
 
+However, not all the processes in companies align with R well, and not every company can afford hiring proper data scientists. Many users in companies are scared of R and are more used to a proper GUI, where all the analysis is done in a "point-and-click" style. This creates barriers in using R in business.
+
+Creating a system that would have a human friendly interface and use existing R packages for purposes of time series analysis and forecasting would help in reducing this gap between business and R. 

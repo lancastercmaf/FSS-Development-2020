@@ -5,22 +5,32 @@ This section provides the ISC with a view of the support received from the commu
 An optional section would be for R-Core signatories where changes to R are proposed.
 -->
 
+We don't have any support from the community...
+
+At the moment, we have contacts with South Tees NHS Hospital Trust, which is interested in having such a system, and we will use their data for the development of it. If this project is finished succesfully, we would be able to deploy the system to other hospitals in the UK. However, the aim of the project is not to deploy the system in hospitals, but to develop a set of tools for analysis and forecasting that could be deployed in any company for their purposes.
+
 ## Project team
 <!-- 
 Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
 -->
-The team includes:
+The team of the project includes the four members of the Centre for Marketing Analytics and Forecasting of Lancaster University:
 
-1. [Ivan Svetunkov](https://www.lancaster.ac.uk/lums/people/ivan-svetunkov), Lecturer of Marketing Analytics, member of the Centre for Marketing Analytics and Forecasting of Lancaster University. He is the creator and the maintainer of such R packages as `smooth` and `greybox`, which implement regression and dynamic models for forecasting purposes. Both packages have more than 7000 downloads per month. Ivan will be the main person, responsible for the development of the code of the new package for the OFSS.
-2. [Nikolaos Kourentzes](https://www.lancaster.ac.uk/lums/people/nikos-kourentzes), professor of department of Management Science, member of the Centre for Marketing Analytics and Forecasting of Lancaster University. He is the creator of `tsutils`, `nnfor`, `MAPA`, `tsintermittent` packages and one of the authors of the `thief` package.
-3. [Anna Sroginis](https://www.lancaster.ac.uk/lums/people/anna-sroginis)
-4. [Kandrika Fadhlan Pritularga](https://www.lancaster.ac.uk/lums/people/kandrika-pritularga)
+1. [Ivan Svetunkov](https://www.lancaster.ac.uk/lums/people/ivan-svetunkov), Lecturer of Marketing Analytics. He is the creator and the maintainer of such R packages as `smooth` and `greybox`, which implement regression and dynamic models for forecasting purposes. Both packages have more than 7000 downloads per month. Ivan will be the main person, responsible for the development of the code of the new package for the OFSS.
+2. [Nikolaos Kourentzes](https://www.lancaster.ac.uk/lums/people/nikos-kourentzes), professor of department of Management Science. He is the creator of `tsutils`, `nnfor`, `MAPA`, `tsintermittent` packages and one of the authors of the `thief` package. The packages that Nikos develops and maintains are focused on time series analysis and on forecasting of different types of processes. Nikos has also developed several R Shiny applications for educational purposes, and he will be responsible for the development of the interface of the OFSS.
+3. [Anna Sroginis](https://www.lancaster.ac.uk/lums/people/anna-sroginis) is a fourth year PhD student of department of Management Science. She is a specialist in human-computer interactions and judgmental forecasting. She will work on the interface of OFSS using R Shiny.
+4. [Kandrika Fadhlan Pritularga](https://www.lancaster.ac.uk/lums/people/kandrika-pritularga) is a second year PhD student of department of Management Science. He is a specialist in hierarchical forecasting and in time series analysis. He has helped Ivan in developing some functions of the `smooth` package and will work on the core of the OFSS.
 
 
 ## Contributors
 <!-- 
 Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
 -->
+The other members of the Centre for Marketing Analytics and Forecasting of Lancaster University have been involved in the development of different R packages of the Centre and will contribute to the project. This includes:
+
+1. Alisa Yusupova,
+2. Gabriel Pesanha,
+3. Carlos Rodriguez Calderon,
+4. Patrick Saoud
 
 
 ## Consulted
