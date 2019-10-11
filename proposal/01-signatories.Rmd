@@ -15,7 +15,7 @@ Who are the people responsible for actually delivering the project if the propos
 -->
 The team of the project includes the four members of the Centre for Marketing Analytics and Forecasting of Lancaster University:
 
-1. [Ivan Svetunkov](https://www.lancaster.ac.uk/lums/people/ivan-svetunkov), Lecturer of Marketing Analytics. He is the creator and the maintainer of such R packages as `smooth` and `greybox`, which implement regression and dynamic models for forecasting purposes. Both packages have more than 7000 downloads per month. Ivan will be the main person, responsible for the development of the code of the new package for the OFSS.
+1. [Ivan Svetunkov](https://www.lancaster.ac.uk/lums/people/ivan-svetunkov), Lecturer of Marketing Analytics. He is the creator and the maintainer of such R packages as `smooth` and `greybox`, which implement regression and dynamic models for forecasting purposes. Both packages have more than 7,000 downloads per month. Ivan will be the main person, responsible for the development of the code of the new package for the OFSS.
 2. [Nikolaos Kourentzes](https://www.lancaster.ac.uk/lums/people/nikos-kourentzes), professor of department of Management Science. He is the creator of `tsutils`, `nnfor`, `MAPA`, `tsintermittent` packages and one of the authors of the `thief` package. The packages that Nikos develops and maintains are focused on time series analysis and on forecasting of different types of processes. Nikos has also developed several R Shiny applications for educational purposes, and he will be responsible for the development of the interface of the OFSS.
 3. [Anna Sroginis](https://www.lancaster.ac.uk/lums/people/anna-sroginis) is a fourth year PhD student of department of Management Science. She is a specialist in human-computer interactions and judgmental forecasting. She will work on the interface of OFSS using R Shiny.
 4. [Kandrika Fadhlan Pritularga](https://www.lancaster.ac.uk/lums/people/kandrika-pritularga) is a second year PhD student of department of Management Science. He is a specialist in hierarchical forecasting and in time series analysis. He has helped Ivan in developing some functions of the `smooth` package and will work on the core of the OFSS.
@@ -27,10 +27,10 @@ Who are the people who have actively helped with this proposal but won't necessa
 -->
 The other members of the Centre for Marketing Analytics and Forecasting of Lancaster University have been involved in the development of different R packages of the Centre and will contribute to the project. This includes:
 
-1. Alisa Yusupova,
-2. Gabriel Pesanha,
-3. Carlos Rodriguez Calderon,
-4. Patrick Saoud
+1. Alisa Yusupova, Lecturer of Marketing Analytics, with the focus on econometric forecasting,
+2. Gabriel Pesanha, Research Associate, working on the topic of digital marketing,
+3. Carlos Rodriguez Calderon, second year PhD student, working in the field of forecasting,
+4. Patrick Saoud, final year PhD student, specialising on the connection between the forecasting and inventory control.
 
 
 ## Consulted
