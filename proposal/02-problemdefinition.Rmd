@@ -1,17 +1,17 @@
 # The Problem
-<!-- 
-Outlining the issue / weak point / problem to be solved by this proposal. This should be a compelling section that sets the reader up for the next section - the proposed solution!
+*Outlining the issue / weak point / problem to be solved by this proposal. This should be a compelling section that sets the reader up for the next section - the proposed solution!*
 
-It is important to cover:
+*It is important to cover:*
 
- - [ ] What the problem is
- - [ ] Who it affects
- - [ ] Have there been previous attempts to resolve the problem
- - [ ] Why it should be tackled
--->
+ - *[ ] What the problem is*
+ - *[ ] Who it affects*
+ - *[ ] Have there been previous attempts to resolve the problem*
+ - *[ ] Why it should be tackled*
 
-There are many forecasting related packages in R, some of which are very popular in R community (for example, `forecast` package has approximately 180 thousands downloads per month). All of them imply a good knowledge of R by the final users. At the same time, over the last few years, we have seen a shift in business from the commercial software towards R: companies tend to choose R, when it comes to selecting an appropriate system for data analysis and forecasting instead of such expensive systems as SAS, SAP and Forecast Pro. The business has started employing analysts and data scientists with programming skills, bringing the analytics in house using the free software. As a result, R has become one of the main prerequisits for the analytical positions in business.
+There are many forecasting related packages in R, some of which are very popular in R community (for example, `forecast` package has approximately 180,000 downloads per month). All of them imply a good knowledge of R by the final users. At the same time, over the last few years, we have seen a shift in business from the commercial software towards R: companies tend to choose R, when it comes to selecting an appropriate system for data analysis and forecasting instead of such expensive systems as SAS, SAP and Forecast Pro. The business has started employing analysts and data scientists with programming skills, bringing the analytics in house using the free software. As a result, R has become one of the main prerequisits for the analytical positions in business.
 
 However, not all the processes in companies align with R well, and not every company can afford hiring proper data scientists. Many users in companies are scared of R and are more used to proper Graphical User Interface, where all the analysis is done in a "point-and-click" style. This slows down the adoption of R by practitioners.
 
 Creating a system that would have a human friendly interface and would use existing R packages for purposes of time series analysis and forecasting would help in reducing this gap between business and R.
+
+We aim at creating an open source constructor that would allow users determine, which modules are needed and easily install them on their servers.

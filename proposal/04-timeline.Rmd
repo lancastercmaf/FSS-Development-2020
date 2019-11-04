@@ -1,30 +1,54 @@
 # Project plan
 
 ## Start-up phase
-<!--
-Covering the planning phase, this section should provide a relatively detailed plan of how work will start on the project. This section is important because projects need to get up and running quickly.
+*Covering the planning phase, this section should provide a relatively detailed plan of how work will start on the project. This section is important because projects need to get up and running quickly.*
 
+ - [ ] *Setting up collaboration platform inc. code for contributors etc.*
+ - [ ] *Licence decisions*
+ - [ ] *Reporting framework*
 
- - [ ] Setting up collaboration platform inc. code for contributors etc.
- - [ ] Licence decisions
- - [ ] Reporting framework
--->
+The working group of the project had several meeting in the end of 2019 in order to decide who does what. If the project is supported by the R Consortium, the work will happen according to the following plan:
+
+1. Github project created, the working group members are allocated jobs to do:
+
+- Ivan codes a bit,
+- Kandrika reconciles what Ivan does,
+- Nikos observes,
+- Anna corrects people,
+- Alisa does all the main work,
+
+The others support the five by beer and good attitude.
+
+2. At the end of the project, the package is submitted on CRAN in order to be able to promote it better.
+
+The OFSS will be released under GPL v3.0 and will be freely available for the R community.
+
+The reporting will be done monthly via emails, outlining the features implemented and available on github.
 
 
 ## Technical delivery
-<!--
-Covering the actual delivery of the project this section should provide at least a high-level the implementation. 
+*Covering the actual delivery of the project this section should provide at least a high-level the implementation.*
 
-Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
--->
+*Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery*
+
+**To be confirmed, when the first meeting happens on 14th November.**
 
 ## Other aspects
-<!--
-Covering non-technical activities like on-going publicity, paper preparation, discussion groups etc. that might be required to facilitate successful delivery of the project.
+*Covering non-technical activities like on-going publicity, paper preparation, discussion groups etc. that might be required to facilitate successful delivery of the project.*
 
- - [ ] Announcement post
- - [ ] Delivery blog post
- - [ ] Twitter
- - [ ] UseR!
- - [ ] ISC meetings
--->
+ - [ ] *Announcement post*
+ - [ ] *Delivery blog post*
+ - [ ] *Twitter*
+ - [ ] *UseR!*
+ - [ ] *ISC meetings*
+
+The achieved milestones of development of the OFSS will be covered on:
+
+1. Blogs of Ivan Svetunkov, Nikos Kourentzes,
+2. R bloggers,
+3. Twitter,
+4. LinkedIn.
+
+In the end of the project, the OFSS will be presented on UseR! conference and International Symposium on Forecasting.
+
+In addition, articles about the system will be prepared and submitted to the Foresight and Impact magazines.

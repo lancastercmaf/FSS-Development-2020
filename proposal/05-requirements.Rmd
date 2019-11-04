@@ -1,34 +1,47 @@
 # Requirements
-<!-- 
-An idea of what is required to make the project actually happen
--->
+*An idea of what is required to make the project actually happen*
 
 ## People
-<!--
-Who needs to be involved, what's the proposed structure, what will it take to get their involvement?
--->
+*Who needs to be involved, what's the proposed structure, what will it take to get their involvement?*
+
+The core team working on the project includes:
+
+1. Ivan Svetunkov -- the head of the project, responsible for the workflow and the core code of the project,
+2. Nikos Kourentzes -- the main consultant of the project, advising on the implementation of the functions and the features of the interface,
+3. Anna Sroginis -- the main R Shiny interface developer,
+4. Kandrika Pritularga -- the developer of core code of the project,
+5. Alisa Yusupova -- the developer of core code of the project,
+
+The following team members will help in some aspects of coding for the core and the interface of the project:
+
+1. Gabriel Pesanha
+2. Carlos Rodriguez Calderon
+
+We will also consult with the experts of the UX-design concerning the best practice for the interface development. The two experts that have already agreed to support the project are Anton Grigoriev and Egor Kamelev, Projectorat.ru.
+
+The work of all these people will be covered from the grant money.
+
+As for the aspects of the testing of the system, it will be deployed and tested on the premises of South Tees NHS Hospital Trust, with support from Gemma McDonald and John Cundy, analysts of the Business Intelligence Unit.
+
+In order to speed up the development process, some of master students of Business Analytics programme and STOR-i might be involved in the project. This will be done as a part of their dissertations, so only potential travel expenses will need to be covered.
+
 
 ## Processes
-<!-- 
-What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
--->
+*What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?*
+
 
 ## Tools & Tech
-<!--
-What is going to be needed to deliver this project? 
+*What is going to be needed to deliver this project?*
 
-Will cloud computing be used - if yes are there are necessary components that will be deciding factors between providers?
+*Will cloud computing be used - if yes are there are necessary components that will be deciding factors between providers?*
 
-Are there tools or tech that don't exist that will be produced to facilitate the project?
--->
+*Are there tools or tech that don't exist that will be produced to facilitate the project?*
+
 
 ## Funding
-<!-- 
-[TO DO] THE GUIDANCE IS PRETTY UNCLEAR, ESP IN LIGHT OF GABOR'S PROPOSAL VS AWARD SIZE
+*[TO DO] THE GUIDANCE IS PRETTY UNCLEAR, ESP IN LIGHT OF GABOR'S PROPOSAL VS AWARD SIZ*
 
--->
 
 ## Summary
-<!--
-A summary of the requirements that contextualises the costs
--->
+*A summary of the requirements that contextualises the costs*
+

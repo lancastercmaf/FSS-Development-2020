@@ -1,18 +1,13 @@
 # Signatories
-<!-- 
-This section provides the ISC with a view of the support received from the community for a proposal. Acceptance isn't predicated on popularity but community acceptance is important.  Willingness to accept outside input is also a good marker for project delivery. 
-
-An optional section would be for R-Core signatories where changes to R are proposed.
--->
+*This section provides the ISC with a view of the support received from the community for a proposal. Acceptance isn't predicated on popularity but community acceptance is important.  Willingness to accept outside input is also a good marker for project delivery.*
 
 We don't have any support from the community...
 
 At the moment, we have contacts with South Tees NHS Hospital Trust, which is interested in having such a system, and we will use their data for the development of it. If this project is finished succesfully, we would be able to deploy the system to other hospitals in the UK. However, the aim of the project is not to deploy the system in hospitals, but to develop a set of tools for analysis and forecasting that could be deployed in any company for their purposes.
 
 ## Project team
-<!-- 
-Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
--->
+*Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?*
+
 The team of the project includes the four members of the Centre for Marketing Analytics and Forecasting of Lancaster University:
 
 1. [Ivan Svetunkov](https://www.lancaster.ac.uk/lums/people/ivan-svetunkov), Lecturer of Marketing Analytics. He is the creator and the maintainer of such R packages as `smooth` and `greybox`, which implement regression and dynamic models for forecasting purposes. Both packages have more than 7,000 downloads per month. Ivan will be the main person, responsible for the development of the code of the new package for the OFSS.
@@ -22,19 +17,19 @@ The team of the project includes the four members of the Centre for Marketing An
 
 
 ## Contributors
-<!-- 
-Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
--->
+*Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?*
+
 The other members of the Centre for Marketing Analytics and Forecasting of Lancaster University have been involved in the development of different R packages of the Centre and will contribute to the project. This includes:
 
 1. Alisa Yusupova, Lecturer of Marketing Analytics, with the focus on econometric forecasting,
 2. Gabriel Pesanha, Research Associate, working on the topic of digital marketing,
-3. Carlos Rodriguez Calderon, second year PhD student, working in the field of forecasting,
-4. Patrick Saoud, final year PhD student, specialising on the connection between the forecasting and inventory control.
+3. Carlos Rodriguez Calderon, second year PhD student, working in the field of retail forecasting,
+4. Patrick Saoud, final year PhD student, specialising on the link between forecasting and inventory control.
 
 
 ## Consulted
-<!-- 
-Who has been given the opportunity to provide feedback on the proposal? This should include any R Consortium & ISC members who the proposal has been discussed with.
--->
+*Who has been given the opportunity to provide feedback on the proposal? This should include any R Consortium & ISC members who the proposal has been discussed with.*
+
+Nothing here yet
+
 
