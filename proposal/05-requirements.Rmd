@@ -29,6 +29,7 @@ In order to speed up the development process, some of master students of Busines
 ## Processes
 *What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?*
 
+The Centre has the code of package development, which will be used as a basis for the project. There will be bi-weekly meetings of the group, discussing the progress of the project.
 
 ## Tools & Tech
 *What is going to be needed to deliver this project?*
@@ -36,6 +37,10 @@ In order to speed up the development process, some of master students of Busines
 *Will cloud computing be used - if yes are there are necessary components that will be deciding factors between providers?*
 
 *Are there tools or tech that don't exist that will be produced to facilitate the project?*
+
+All the team members are registered on github, so this will be used as a main cloud service for the code development.
+
+We will use `devtools`, `roxygen2`, `testthat` and other R packages for the purposes of the appropriate package development.
 
 
 ## Funding
@@ -45,3 +50,4 @@ In order to speed up the development process, some of master students of Busines
 ## Summary
 *A summary of the requirements that contextualises the costs*
 
+We need money! A lot! Something like 100k. Because we need to buy a lot of beer in order to do this project! A page with examples of funded projects: [https://www.r-consortium.org/projects/awarded-projects](https://www.r-consortium.org/projects/awarded-projects)
