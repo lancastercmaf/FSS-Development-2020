@@ -3,7 +3,7 @@
 
 We don't have any support from the community...
 
-At the moment, we have contacts with South Tees NHS Hospital Trust, which is interested in having such a system, and we will use their data for the development of it. If this project is finished succesfully, we would be able to deploy the system to other hospitals in the UK. However, the aim of the project is not to deploy the system in hospitals, but to develop a set of tools for analysis and forecasting that could be deployed in any company for their purposes.
+At the moment, we have contacts with South Tees NHS Hospital Trust, which is interested in having such a system, and we will use their data for the development of it. If this project is finished succesfully, we would be able to deploy the system to other hospitals in the UK. However, the aim of the project is not to deploy the system in hospitals, but to develop a set of tools for analysis and forecasting that could be deployed in any company for their purposes
 
 ## Project team
 *Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?*
